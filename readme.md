@@ -1,5 +1,5 @@
-Essential information on algorithms and data structures are covered, with emphasis on applications and scientific performance analysis of Java implementations.     
+COURSERA-Algorithms(Princeton University) 
 
-By the end of the course I achieved an average 97/100 on all topics. 
+** On average 97/100 ** 
 
 <img src="score.png" />
