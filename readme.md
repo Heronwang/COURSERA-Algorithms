@@ -1,4 +1,4 @@
-# Algorithms by Princeton University
+# Coursera Algorithms by Princeton University
 
 ### Taught by:  
     Robert Sedgewick, William O. Baker *39 Professor of Computer Science
